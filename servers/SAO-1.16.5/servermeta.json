@@ -4,14 +4,14 @@
     "version": "1.0.0",
     "name": "SAO (Minecraft 1.16.5)",
     "description": "SAO Running Minecraft 1.16.5 (Forge v36.2.20)",
-    "address": "localhost:25565",
+    "address": "kenjoyee.duckdns.org",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
     "version": "36.2.20"
