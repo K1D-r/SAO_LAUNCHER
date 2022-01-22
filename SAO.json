@@ -13,15 +13,15 @@
       "description": "SAO Running Minecraft 1.16.5 (Forge v36.2.20)",
       "icon": "https://cdn.discordapp.com/attachments/934258589231628370/934267643286941807/57f8ee8c9679aabc.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "kenjoyee.duckdns.org",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.20",
