@@ -30,7 +30,7 @@
           "artifact": {
             "size": 212295,
             "MD5": "76b8b32bf2281884f75bd73285b4093a",
-            "url": "https://github.com/K1D-r/SAO_LAUNCHER/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20.jar"
+            "url": "https://github.com/K1D-r/SAO_LAUNCHER/blob/mainrepo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 13580,
                 "MD5": "23e57303e3b20d096c5fdd163d0e793b",
-                "url": "https://github.com/K1D-r/SAO_LAUNCHER/repo/versions/1.16.5-forge-36.2.20/1.16.5-forge-36.2.20.json"
+                "url": "https://github.com/K1D-r/SAO_LAUNCHER/blob/main/repo/versions/1.16.5-forge-36.2.20/1.16.5-forge-36.2.20.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 2479338,
                 "MD5": "5ab9a9314c184c502e20cf90e099e5a4",
-                "url": "https://github.com/K1D-r/SAO_LAUNCHER/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-universal.jar"
+                "url": "https://github.com/K1D-r/SAO_LAUNCHER/blob/main/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-universal.jar"
               },
               "subModules": []
             },
