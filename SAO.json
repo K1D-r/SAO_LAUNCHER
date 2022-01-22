@@ -11,7 +11,7 @@
       "id": "SAO-1.16.5",
       "name": "SAO (Minecraft 1.16.5)",
       "description": "SAO Running Minecraft 1.16.5 (Forge v36.2.20)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/934258589231628370/934267643286941807/57f8ee8c9679aabc.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
